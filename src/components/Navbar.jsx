@@ -2,14 +2,14 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Container = styled.div`
-  height:60px;
+  height 
 `
 
 const Navbar = () => {
   return (
-    <div>
+    <Container>
       Navbar
-    </div>
+    </Container>
   )
 }
 
